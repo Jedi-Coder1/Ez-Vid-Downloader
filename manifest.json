@@ -1,0 +1,11 @@
+{
+    "name": "Ez Vid Downloader",
+    "version": "1.0",
+    "description": "Downloads Videos From Web",
+    "manifest_version": 3,
+    "author": "Jedi-Coder1",
+    "permissions": ["downloads"],
+    "action": {
+        "default_popup": "display.html"
+    }
+}
